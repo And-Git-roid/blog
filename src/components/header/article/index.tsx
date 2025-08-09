@@ -20,7 +20,7 @@ export const Header = (props: HeaderProps) => {
     >
       <Link className='justify-self-start' href='/'>
         <h1 className='text-xl font-bold tracking-tighter md:text-2xl'>
-          Yangkh<small>.vercel</small>
+          Chris<small>.space</small>
         </h1>
       </Link>
       <nav className='flex gap-8 max-sm:text-sm'>
